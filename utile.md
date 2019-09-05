@@ -12,3 +12,6 @@ Offline
 Online
 * https://jsfiddle.net/
 * http://jsbin.com 
+
+Documentatie:
+* http://htmlbook.ru/
