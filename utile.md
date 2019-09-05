@@ -1,5 +1,6 @@
 Editoare de cod
--- Offline
+
+Offline
 * Notepad
 * Notepad++
 * Sublime Text
@@ -7,4 +8,7 @@ Editoare de cod
 * Adobe Dreamveawer
 * Jetbrains WebStorm
 * Microsoft Visual Studio Code
--- Online
+
+Online
+* https://jsfiddle.net/
+* http://jsbin.com 
