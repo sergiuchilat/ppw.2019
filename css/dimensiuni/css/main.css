@@ -1,0 +1,11 @@
+.super-element{
+	width: 150mm; 
+	height: 150px; 
+	background: lightblue; 
+	border: 5px solid green; 
+	font-size: 120px; 
+	text-align: center; 
+	color: #6F7760;
+	overflow: hidden;
+}
+

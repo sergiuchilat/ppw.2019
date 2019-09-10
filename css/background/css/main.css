@@ -1,0 +1,27 @@
+body{
+	background: url(../img/body_background.jpg);
+	background-attachment: fixed;
+}
+
+.super-element{
+	width: 720px;
+	height: 360px;
+	background: url('../img/smile.jpg');
+	border: 2px solid red;
+}
+
+.repeat-x{
+	background-repeat: repeat-x;
+}
+
+.repeat-y{
+	background-repeat: repeat-y;
+}
+
+.no-repeat{
+	background-repeat: no-repeat;
+}
+
+.cover {
+	background-size: cover;
+}
