@@ -1,0 +1,55 @@
+header {
+	background-color: green;
+	color: white;
+	font-size: 56px;
+	text-align: center;
+}
+
+
+nav {
+	background-color: violet;
+}
+
+aside, section {
+	display: inline-block;
+	vertical-align: top;
+}
+
+aside {
+	background-color: #ffff00;
+	width: 20%;
+}
+
+section {
+	background-color: gray;
+	width: 79%;
+}
+
+footer {
+	background-color: red;
+}
+
+.photo-gallery {
+	background-color: lime;
+}
+
+.photo-gallery li {
+	background-color: purple;
+	display: inline-block;
+	border: 1px solid gray;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+.video-gallery {
+	background-color: lime;
+}
+
+.video-gallery li {
+	background-color: purple;
+	display: inline-block;
+	border: 1px solid gray;
+	border-radius: 5px;
+	padding: 5px;
+	width: 45%;
+}
