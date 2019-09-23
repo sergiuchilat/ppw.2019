@@ -15,3 +15,7 @@ Online
 
 Documentatie:
 * http://htmlbook.ru/
+
+
+Plugin-uri:
+* http://fancybox.net/
