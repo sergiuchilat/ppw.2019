@@ -1,3 +1,6 @@
+Contacte:
+E-mail: chilatsergiu@gmail.com
+
 Editoare de cod
 
 Offline
