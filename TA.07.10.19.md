@@ -6,5 +6,7 @@ Auditoriu:
 
 Pe acasa:
 * Snippets
+* CSS animation
+* La urmatoarea lectie de laborator de prezentat prima pagina a sitului
 
 
