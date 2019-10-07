@@ -1,15 +1,26 @@
 ul {
     background: violet;
+    list-style: none;
 }
 
 ul li{
     border: 1px dashed blue;
 }
 
-.odd{
+ul li:before{
+    content: "@";
+    background: red;
+}
+
+ul li:nth-child(odd) {
     background: blue;
 }
 
-.even{
+
+ul li:nth-child(even){
     background: #058002;
+}
+
+ul li:nth-child(2n+3){
+    color: yellow;
 }

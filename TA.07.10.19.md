@@ -1,4 +1,10 @@
+Auditoriu:
 * Pseudo-selectori
 * Landing page
 * CSS media queries
-* Bootstrap 
+* Bootstrap
+
+Pe acasa:
+* Snippets
+
+
