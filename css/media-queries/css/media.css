@@ -1,0 +1,20 @@
+@media screen and (max-width: 500px) {
+    ul li{
+        background: red;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 501px) and (max-width: 750px) {
+    ul li{
+        background: yellow;
+    }
+}
+
+@media print {
+    .secret{
+        display: none;
+    }
+}
+
+
