@@ -1,0 +1,15 @@
+ul {
+    background: violet;
+}
+
+ul li{
+    border: 1px dashed blue;
+}
+
+.odd{
+    background: blue;
+}
+
+.even{
+    background: #058002;
+}
