@@ -1,0 +1,29 @@
+.element {
+	outline: 1px solid green;
+	text-align: center;
+	font-size: 26px;
+	background: black;
+	color: white;
+}
+
+.red {
+	background:red; 
+}
+
+.green {
+	background: green;
+}
+
+.blue {
+	background: blue;
+}
+
+
+.row-h-300{
+	height: 300px;
+	background: gray;
+}
+
+.alert-danger {
+	background: red;
+}
