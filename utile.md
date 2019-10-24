@@ -22,3 +22,5 @@ Documentatie:
 
 Plugin-uri:
 * http://fancybox.net/
+
+Tutorial Bootstrap https://youtu.be/2JMMnNOhDoc
