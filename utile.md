@@ -24,3 +24,9 @@ Plugin-uri:
 * http://fancybox.net/
 
 Tutorial Bootstrap https://youtu.be/2JMMnNOhDoc
+* https://getbootstrap.com/docs/4.3/components/alerts/
+* https://getbootstrap.com/docs/4.3/utilities
+* https://getbootstrap.com/docs/4.3/examples/
+
+Tutorial creare machet pe Bootstrap
+* https://www.youtube.com/watch?v=F7SfBCg4u88
