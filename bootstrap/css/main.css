@@ -1,29 +1,24 @@
-.element {
-	outline: 1px solid green;
-	text-align: center;
-	font-size: 26px;
-	background: black;
-	color: white;
-}
-
-.red {
-	background:red; 
-}
-
-.green {
-	background: green;
-}
-
-.blue {
-	background: blue;
+.container {
+	width: 1000px;
+	margin: 0 auto;
+	border: 1px solid red;
 }
 
 
-.row-h-300{
-	height: 300px;
+header {
+	height: 500px;
 	background: gray;
 }
 
-.alert-danger {
-	background: red;
+
+section {
+	background: lightblue;
+	min-height: 100px;
+	border-top: 1px solid blue;
+}
+
+
+footer {
+	background: green;
+	height: 300px;
 }
