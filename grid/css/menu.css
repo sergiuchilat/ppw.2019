@@ -1,0 +1,43 @@
+nav ul, aside ul {
+	background: lightblue;
+	margin: 0;
+	padding: 0;
+	display: grid;	
+	list-style: none;
+	height: 32px;
+}
+
+
+nav ul{
+	grid-template-columns: repeat(4, 1fr);
+}
+
+aside ul{
+	grid-template-columns: 1fr;
+}
+
+nav ul li,  aside ul li{
+	text-align: center;
+	color: red;
+}
+
+nav ul li.active, aside ul li.active{
+	background: green;
+	color: white;
+}
+
+nav ul li:hover, aside ul li:hover {
+	background-color: cyan;
+}
+
+nav ul li a, aside ul li a{
+	color: red;
+	text-decoration: none;
+	box-shadow: 2px 2px #888888;
+	display: block;
+	padding: 5px;
+}
+
+nav ul li a:active, aside ul li a:active {
+	background-color: green;
+}
