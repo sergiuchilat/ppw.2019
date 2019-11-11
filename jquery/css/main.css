@@ -1,0 +1,12 @@
+.game {
+	background: green;
+	width: 600px;
+	height: 400px;
+	position: relative;
+}
+
+.game #mario{
+	width: 100px;
+	position: absolute;
+	bottom: 0;
+}
