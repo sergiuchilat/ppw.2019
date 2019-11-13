@@ -1,9 +1,30 @@
 $(document).ready(function() {
+	setTimeout(function(){
+		fillList();
+		setTimeout(function(){
+			deleteLast2();
+			setInterval(function(){
+				addAtListStart();
+			}, 1000);
+		}, 2000);
+	}, 2000);
+	
+
+	setBodyBG('red');
+	setTimeout(function(){
+		setBodyBG('cyan');
+	}, 1500);	
+	setButtonsHandler();
+	startGame();
+});
+
+function setBodyBG(color){
 	$('body').css({
-		background: 'red'
+		background: color
 	});
+}
 
-
+function setButtonsHandler(){
 	$('button:nth-child(1)').on('click', function(){
 		$('body').css({
 			background: 'green'
@@ -33,7 +54,10 @@ $(document).ready(function() {
 			background: 'cyan'
 		});
 	});
+}
 
+
+function startGame(){
 	$(document).on('keydown', function(event){
 		console.log('Mario move', event.which);
 
@@ -74,4 +98,19 @@ $(document).ready(function() {
 				break;
 		}		
 	});
-});
+}
+
+
+function fillList(){
+	for(let i = 1; i < 7; i++){
+		$('ul.list li:nth-child(' + i + ')').html('jQuery ' + i + '');
+	}
+}
+
+function deleteLast2(){
+	$('ul.list li:nth-child(5)').remove();
+}
+
+function addAtListStart(){
+	$('ul.list').append('<li>Text</li>');
+}
