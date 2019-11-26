@@ -10,6 +10,7 @@ Cerinte pentru proiectul final:
 ** (Site v3)De elaborat situl pe unul din framework-uri: Bootstrap sau MaterialDesign
 
 Barem de notare:
+
 **  25p - Site V1
 **  10p - Site V2
 **  20p - Site V3
