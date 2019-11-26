@@ -20,3 +20,15 @@ Echipa 3
 3. Titlu Andrei
 4. Rusica Alexandru
 5. Rijac Alexandru
+
+Echipa 4
+1. Banari Vladislav
+2. Cozma Denis
+3. Carbuneanu Anton
+
+
+Echipa 5
+1. Bazaochi Dumitru
+2. Ceaus Maxim
+3. Elizarov Alexei
+4. Hmelevschi Alexandr
